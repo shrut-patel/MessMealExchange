@@ -117,7 +117,7 @@ Shrut Viroja
 IIIT Hyderabad
 
 - GitHub: https://github.com/shrut-patel/
-- LinkedIn: (https://www.linkedin.com/in/srtpatel/)
+- LinkedIn: https://www.linkedin.com/in/srtpatel/
 - Email: shrut3337@gmail.com
 
 ## Copyright and License
