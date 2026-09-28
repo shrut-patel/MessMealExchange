@@ -93,10 +93,7 @@ The full problem statement is in [`Problem_Statement.docx`](./Problem_Statement.
 ├── README.md
 ├── Problem_Statement.docx
 ├── MessMealExchange_Dashboard.pbix     # Power BI dashboard file
-├── data/
-│   └── survey_responses.csv            # survey data (anonymised)
-└── screenshots/
-    └── dashboard.png                   # dashboard preview
+├── dashboard.png                   # dashboard preview
 ```
 
 
