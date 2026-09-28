@@ -25,7 +25,7 @@ An interactive **Power BI** dashboard built from a survey of **350 IIITH student
 
 Students at IIITH depend on the campus messes for their daily meals. Because of classes, labs, deadlines, hackathons and other commitments, they often miss meals they have already paid for. There is no way to pass an unused meal to another student, which leads to:
 
-- Money lost by students
+- Money lost by student
 - Food wastage
 - Frustration
 
