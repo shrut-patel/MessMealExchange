@@ -75,7 +75,6 @@ The full problem statement is in [`Problem_Statement.docx`](./Problem_Statement.
 - **Market Adoption Intent: 91.43%**, so the large majority of respondents are open to using a meal exchange platform.
 - The survey covers both UG (274) and PG (76) students across branches.
 
-> Add more insights here once you finalize your analysis (for example average money lost per student and the most-wanted features).
 
 ## Proposed Solution: MealSwap
 
@@ -100,13 +99,12 @@ The full problem statement is in [`Problem_Statement.docx`](./Problem_Statement.
     └── dashboard.png                   # dashboard preview
 ```
 
-> Rename the files above to match what you actually upload.
 
 ## How to Use
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<your-username>/<your-repo-name>.git
+   [git clone https://github.com/<your-username>/<your-repo-name>.git](https://github.com/shrut-patel/MessMealExchange/)
    ```
 2. Open the `.pbix` file in **Power BI Desktop**.
 3. If prompted, point the data source to `data/survey_responses.csv` (Home → Transform data → Data source settings).
