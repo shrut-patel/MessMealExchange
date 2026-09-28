@@ -127,10 +127,4 @@ IIIT Hyderabad
 
 Copyright © 2026 Shrut. All rights reserved.
 
-This project is released under the [MIT License](./LICENSE). You are free to use, copy, modify and distribute it, provided the copyright notice and license text are kept.
-
-The survey data was collected voluntarily from IIITH students for academic and market research purposes. Please do not use it to identify any individual respondent.
-
----
-
 *Made for the IIITH student community.*
