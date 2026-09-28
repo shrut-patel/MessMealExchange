@@ -101,7 +101,7 @@ The full problem statement is in [`Problem_Statement.docx`](./Problem_Statement.
 
 1. Clone the repository:
    ```bash
-   (https://github.com/shrut-patel/MessMealExchange/)
+   https://github.com/shrut-patel/MessMealExchange/
    ```
 2. Open the `.pbix` file in **Power BI Desktop**.
 3. If prompted, point the data source to `data/survey_responses.csv` (Home → Transform data → Data source settings).
