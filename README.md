@@ -116,8 +116,8 @@ The survey used for data collection: [https://tally.so/r/eqb9Re](https://tally.s
 Shrut Viroja
 IIIT Hyderabad
 
-- GitHub:https: //github.com/shrut-patel/
-- LinkedIn: https://www.linkedin.com/
+- GitHub: https://github.com/shrut-patel/
+- LinkedIn: (https://www.linkedin.com/in/srtpatel/)
 - Email: shrut3337@gmail.com
 
 ## Copyright and License
